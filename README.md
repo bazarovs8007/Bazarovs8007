@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Salom, men Sayfiddin
 
-<!--
-**bazarovs8007/Bazarovs8007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 9-sinf o‘quvchisi  
+💻 IT-Park Tuproqqal'ada dasturlashni o‘rganaman  
+👨‍🏫 Ustozim: https://github.com/agmm7834  
 
-Here are some ideas to get you started:
+🔒 Shaxsiy akkaunt: https://github.com/bazarovs8007  
+🌍 Ommaviy loyihalar: https://github.com/bsayfiddin2197  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 Hi, I'm Sayfiddin
+
+🎓 9th grade student  
+💻 Learning programming at IT-Park Tuproqqal'a  
+👨‍🏫 Mentor: https://github.com/agmm7834  
+
+🔒 Personal account: https://github.com/bazarovs8007  
+🌍 Public projects: https://github.com/bsayfiddin2197
+
