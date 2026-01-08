@@ -1,75 +1,60 @@
-<h1 align="center">👋 Salom, men Sayfiddin</h1>
+<!-- ===== TYPING ANIMATION ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&
+  lines=Salom%2C+men+Sayfiddin;9-sinf+IT-Park+o'quvchisi;HTML+%7C+Python+%7C+Django;Yosh+dasturchi%2C+katta+maqsadlar+bilan" />
+</p>
+
+---
+
+## 👋 Salom, men Sayfiddin
+
+🎓 9-sinf o‘quvchisi  
+💻 IT-Park Tuproqqal'ada dasturlashni o‘rganaman  
+🚀 Yosh dasturchi, katta maqsadlar bilan  
+
+---
+
+## 🧠 Hozirda nimalarni o‘rganayapman?
+- 🌐 **Frontend:** HTML  
+- ⚙️ **Backend:** Python  
+- 🗄 **Ma'lumotlar bazasi:** SQLite  
+- 🕸 **Framework:** Django  
 
 <p align="center">
-  🎓 9-sinf o‘quvchisi <br>
-  💻 IT-Park Tuproqqal'ada dasturlashni o‘rganaman <br>
-  🚀 Yosh dasturchi, katta maqsadlar bilan
+  <img src="https://skillicons.dev/icons?i=html,python,django,sqlite,git,github&perline=6" />
 </p>
 
 ---
 
-### 🧠 Hozirda nimalarni o‘rganayapman?
-<p align="left">
-  🌐 <b>Frontend:</b> HTML <br>
-  ⚙️ <b>Backend:</b> Python <br>
-  🗄 <b>Ma'lumotlar bazasi:</b> SQLite <br>
-  🕸 <b>Framework:</b> Django
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,python,django,sqlite,git,github" />
-</p>
-
----
-
-### 👨‍🏫 Ustozim
+## 👨‍🏫 Ustozim
 - GitHub: https://github.com/agmm7834
 
 ---
 
-### 🔗 Akkauntlarim
-- 🔒 Shaxsiy akkaunt: https://github.com/bazarovs8007  
-- 🌍 Ommaviy loyihalar: https://github.com/bsayfiddin2197  
+## 🔗 Akkauntlarim
+- 🔒 **Shaxsiy akkaunt:** https://github.com/bazarovs8007  
+- 🌍 **Ommaviy loyihalar:** https://github.com/bsayfiddin2197  
 
 ---
 
-<br>
-
-<h1 align="center">👋 Hi, I'm Sayfiddin</h1>
-
+<!-- ===== GITHUB STATS ===== -->
 <p align="center">
-  🎓 9th grade student <br>
-  💻 Learning programming at IT-Park Tuproqqal'a <br>
-  🚀 Young developer with big goals
+  <img src="https://github-readme-stats.vercel.app/api?
+  username=bazarovs8007&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧠 Currently learning
-<p align="left">
-  🌐 <b>Frontend:</b> HTML <br>
-  ⚙️ <b>Backend:</b> Python <br>
-  🗄 <b>Database:</b> SQLite <br>
-  🕸 <b>Framework:</b> Django
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,python,django,sqlite,git,github" />
-</p>
-
----
-
-### 👨‍🏫 Mentor
-- GitHub: https://github.com/agmm7834
-
----
-
-### 🔗 Accounts
-- 🔒 Personal account: https://github.com/bazarovs8007  
-- 🌍 Public projects: https://github.com/bsayfiddin2197  
-
----
-
+<!-- ===== 3D SUMMARY CARD ===== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bazarovs8007&show_icons=true&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?
+  username=bazarovs8007&theme=github_dark" />
+</p>
+
+---
+
+<!-- ===== SNAKE ANIMATION ===== -->
+<p align="center">
+  <img src="https://github.com/bazarovs8007/bazarovs8007/blob/output/github-contribution-grid-snake.svg" />
 </p>
