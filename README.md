@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=120000&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Sayfiddin+Bazarov" alt="Neon Title" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=1000&pause=120000&color=00FF00&center=true&vCenter=true&width=500&lines=Sayfiddin+Bazarov" alt="Neon Title" />
   </a>
 </h1>
 
@@ -10,11 +10,11 @@
 
 ---
 
-### 📈 MARKET ACTIVITY (SMOOTH ANALYTICS)
-> *Mishkani grafik ustiga olib boring — tizim senga qachon "tushganing" va qachon "chiqganingni" (sanalarni) ko'rsatadi.*
+### 📈 MARKET ACTIVITY (HOVER FOR DATE)
+> *Mishkani chiziq ustiga olib boring — qachon tushib, qachon ko'tarilganingizni (sanalarni) ko'rasiz.*
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bazarovs8007&bg_color=0D1117&color=00FF00&line=00FF00&area=true&hide_border=true&hide_points=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bazarovs8007&bg_color=0D1117&color=00FF00&line=00FF00&area=true&hide_border=true&hide_points=true" width="100%" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ---
 
-### 📊 STATISTIKA (51% PROGRESS)
+### 📊 STATISTIKA
 
 <p align="center">
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=bazarovs8007&show_icons=true&theme=tokyonight&hide_border=true" />
