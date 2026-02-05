@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Sayfiddin+Bazarov;Bazarovs8007+🌐+%7C+TG:+%40BSSH8007+%7C+Gmail:+bssh8007%40gmail.com" alt="Neon Title" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=120000&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Sayfiddin+Bazarov" alt="Neon Title" />
   </a>
 </h1>
 
@@ -10,25 +10,23 @@
 
 ---
 
-### 📉 MARKET ACTIVITY (YASHIL & QIZIL)
-> *Bu grafik sening kodingni xuddi aksiyalar bozori kabi ko'rsatadi. Yashil chiziq — o'sish, qizil nuqtalar — nazorat nuqtalari.*
+### 📈 MARKET ACTIVITY (SMOOTH ANALYTICS)
+> *Mishkani grafik ustiga olib boring — tizim senga qachon "tushganing" va qachon "chiqganingni" (sanalarni) ko'rsatadi.*
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bazarovs8007&bg_color=0D1117&color=00FF00&line=00FF00&point=FF0000&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bazarovs8007&bg_color=0D1117&color=00FF00&line=00FF00&area=true&hide_border=true&hide_points=false" width="100%" />
 </p>
 
 ---
 
 ### 🐍 CODE SNAKE (FAOLLIK ILONI)
-> *Sening yashil kvadratlaringni yeb yuruvchi ilon:*
-
 <p align="center">
   <img src="https://github.com/bazarovs8007/bazarovs8007/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 🛠 TEXNOLOGIK STACK (QUROLLAR)
+### 🛠 TEXNOLOGIK STACK
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -40,25 +38,27 @@
 
 ---
 
-### 📊 STATISTIKA VA DARAJALAR
+### 🌑 BOG'LANISH MARKAZI (DARK PORTAL)
+> **Bazarovs8007 🌐 | System Online**
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bazarovs8007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazarovs8007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+| CHANNEL | SIGNAL |
+| :--- | :--- |
+| **TELEGRAM** | [ @BSSH8007 ](https://t.me/BSSH8007) |
+| **GMAIL** | [ bssh8007@gmail.com ](mailto:bssh8007@gmail.com) |
+| **GITHUB** | [ @bazarovs8007 ](https://github.com/bazarovs8007) |
+
+</div>
 
 ---
 
-### 📬 ALOQA MARKAZI (CONTACTS)
+### 📊 STATISTIKA (51% PROGRESS)
 
 <p align="center">
-  <a href="https://t.me/BSSH8007">
-    <img src="https://img.shields.io/badge/Telegram-@BSSH8007-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:bssh8007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bssh8007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/bazarovs8007">
-    <img src="https://img.shields.io/badge/GitHub-Bazarovs8007-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=bazarovs8007&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <i>"E'tiqodimiz butun, ilmimiz mantiqiy." - Bazarovssh</i>
 </p>
