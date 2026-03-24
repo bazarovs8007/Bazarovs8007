@@ -45,7 +45,7 @@
 
 | CHANNEL | SIGNAL |
 | :--- | :--- |
-| **TELEGRAM** | [ @BSSH8007 ](https://t.me/BSSH8007) |
+| **TELEGRAM** | [ @BSSH_8007 ](https://t.me/BSSH_8007) |
 | **GMAIL** | [ bssh8007@gmail.com ](mailto:bssh8007@gmail.com) |
 | **GITHUB** | [ @bazarovs8007 ](https://github.com/bazarovs8007) |
 
